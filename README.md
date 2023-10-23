@@ -1,6 +1,7 @@
 # Self-Cleaning ETL Pipeline
 
-![Pipeline Logo](pipeline-logo.png)
+![Image Description](https://github.com/ichdamola/Self-cleaning-ETL-pipeline/assets/20647487/a678a7e4-1654-42d2-83ce-82d4b2906b23)
+
 
 ## Overview
 
