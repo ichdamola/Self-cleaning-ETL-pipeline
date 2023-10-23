@@ -1,11 +1,11 @@
 # Initialize your Terraform configuration
 provider "aws" {
-  region = "us-east-1"  # Replace with your desired region
+  region = "us-east-1"  
 }
 
 # Create an S3 bucket
 resource "aws_s3_bucket" "data_lake" {
-  bucket = "your-data-lake-bucket"
+  bucket = "data-lake-bucket"
   acl    = "private"
 }
 
